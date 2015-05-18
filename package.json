@@ -1,0 +1,33 @@
+{
+  "name": "stylus-lightning",
+  "version": "1.0.0",
+  "description": "Stylus library for Site Lightning.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abstracthat/stylus-lightning.git"
+  },
+  "keywords": [
+    "stylus",
+    "mixins",
+    "reset"
+  ],
+  "author": {
+    "name": "Josh Bertrand"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abstracthat/stylus-lightning/issues"
+  },
+  "homepage": "https://github.com/abstracthat/stylus-lightning",
+  "_npmUser": {
+    "name": "abstracthat",
+    "email": "josh.bertrand@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "abstracthat",
+      "email": "josh.bertrand@gmail.com"
+    }
+  ]
+}
