@@ -1,6 +1,6 @@
 {
   "name": "stylus-lightning",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stylus library for Site Lightning.",
   "main": "index.js",
   "repository": {
